@@ -79,12 +79,9 @@ root.right = BinaryTree(20)
 / \   /
 9  10   
 ```
-
-
-
-
-Для представлення графу слід використати список суміжності, який зчитується з файлу input.txt
-Результат (True - якщо цикл присутній, False - якщо відсутній) слід вивести у файл output.txt
+***
+### Лабораторна робота №5 (Варіант 2 Рівень 2)
+Задачка про досвід: [link](https://drive.google.com/file/d/1tWP83Mo7zlfVbFTKrgC_HTh3JqEL-_G9/view?usp=drive_link)
 
 
 
